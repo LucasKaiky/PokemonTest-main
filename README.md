@@ -6,3 +6,5 @@ Necessário para rodar:
 
 API utilizada:
 - https://pokeapi.co/
+
+OBS: Verifique o caminho do script e do css caso não funcione 😎
